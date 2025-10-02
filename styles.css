@@ -18,5 +18,8 @@ h3 {
 li {
     font-size: 50px;
 }
+#information {
+    display: inline-block;
+}
 
 
